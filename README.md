@@ -1,1 +1,1 @@
-# Sonatype v Snyk Data Comparison
+# Sonatype vs Comp Data Comparison
